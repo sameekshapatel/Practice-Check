@@ -1,0 +1,56 @@
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\appsettings.Development.json
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\appsettings.json
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\MyProject29.exe
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\MyProject29.deps.json
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\MyProject29.runtimeconfig.json
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\MyProject29.dll
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\MyProject29.pdb
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\MyProject29.csproj.AssemblyReference.cache
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\MyProject29.GeneratedMSBuildEditorConfig.editorconfig
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\MyProject29.AssemblyInfoInputs.cache
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\MyProject29.AssemblyInfo.cs
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\MyProject29.csproj.CoreCompileInputs.cache
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\MyProject29.MvcApplicationPartsAssemblyInfo.cs
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\MyProject29.MvcApplicationPartsAssemblyInfo.cache
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\staticwebassets.build.json
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\staticwebassets.development.json
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\scopedcss\bundle\MyProject29.styles.css
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\MyProject29.csproj.CopyComplete
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\MyProject29.dll
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\refint\MyProject29.dll
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\MyProject29.pdb
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\MyProject29.genruntimeconfig.cache
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\ref\MyProject29.dll
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\appsettings.Development.json
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\appsettings.json
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\MyProject29.exe
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\MyProject29.deps.json
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\MyProject29.runtimeconfig.json
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\MyProject29.dll
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\MyProject29.pdb
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Azure Cloud\MyProject29\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\MyProject29.csproj.AssemblyReference.cache
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\MyProject29.GeneratedMSBuildEditorConfig.editorconfig
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\MyProject29.AssemblyInfoInputs.cache
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\MyProject29.AssemblyInfo.cs
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\MyProject29.csproj.CoreCompileInputs.cache
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\MyProject29.MvcApplicationPartsAssemblyInfo.cs
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\MyProject29.MvcApplicationPartsAssemblyInfo.cache
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\staticwebassets.build.json
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\staticwebassets.development.json
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\scopedcss\bundle\MyProject29.styles.css
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\MyProject29.csproj.CopyComplete
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\MyProject29.dll
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\refint\MyProject29.dll
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\MyProject29.pdb
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\MyProject29.genruntimeconfig.cache
+E:\Azure Cloud\MyProject29\obj\Debug\net6.0\ref\MyProject29.dll

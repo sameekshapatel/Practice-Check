@@ -1,0 +1,84 @@
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.csproj.AssemblyReference.cache
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.AssemblyInfoInputs.cache
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.AssemblyInfo.cs
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.csproj.CoreCompileInputs.cache
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prash\Project ABC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prash\Project ABC\bin\Debug\net6.0\appsettings.json
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Project ABC.exe
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Project ABC.deps.json
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Project ABC.runtimeconfig.json
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Project ABC.dll
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Project ABC.pdb
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prash\Project ABC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prash\Project ABC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prash\Project ABC\obj\Debug\net6.0\scopedcss\bundle\Project ABC.styles.css
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.csproj.CopyComplete
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.dll
+C:\Users\prash\Project ABC\obj\Debug\net6.0\refint\Project ABC.dll
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.pdb
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.genruntimeconfig.cache
+C:\Users\prash\Project ABC\obj\Debug\net6.0\ref\Project ABC.dll
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\appsettings.Development.json
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\appsettings.json
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\Project ABC.exe
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\Project ABC.deps.json
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\Project ABC.runtimeconfig.json
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\Project ABC.dll
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\Project ABC.pdb
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CloudDemo\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\Project ABC.csproj.AssemblyReference.cache
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\Project ABC.GeneratedMSBuildEditorConfig.editorconfig
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\Project ABC.AssemblyInfoInputs.cache
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\Project ABC.AssemblyInfo.cs
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\Project ABC.csproj.CoreCompileInputs.cache
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cs
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cache
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\staticwebassets.build.json
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\staticwebassets.development.json
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\scopedcss\bundle\Project ABC.styles.css
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\Project ABC.csproj.CopyComplete
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\Project ABC.dll
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\refint\Project ABC.dll
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\Project ABC.pdb
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\Project ABC.genruntimeconfig.cache
+E:\CloudDemo\Project ABC\obj\Debug\net6.0\ref\Project ABC.dll
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\appsettings.Development.json
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\appsettings.json
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Project ABC.exe
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Project ABC.deps.json
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Project ABC.runtimeconfig.json
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Project ABC.dll
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Project ABC.pdb
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Azure Cloud-Practice check\MyProject29\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\Project ABC.csproj.AssemblyReference.cache
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\Project ABC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\Project ABC.AssemblyInfoInputs.cache
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\Project ABC.AssemblyInfo.cs
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\Project ABC.csproj.CoreCompileInputs.cache
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cs
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cache
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\staticwebassets.build.json
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\staticwebassets.development.json
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\scopedcss\bundle\Project ABC.styles.css
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\Project ABC.csproj.CopyComplete
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\Project ABC.dll
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\refint\Project ABC.dll
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\Project ABC.pdb
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\Project ABC.genruntimeconfig.cache
+E:\Azure Cloud-Practice check\MyProject29\obj\Debug\net6.0\ref\Project ABC.dll
